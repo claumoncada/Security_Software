@@ -1,7 +1,7 @@
 # Security Software
 #Security API
 
-ollowing the guide to implement a secure API architecture and the Flask prototype implemented during the class, do the following: 
+Following the guide to implement a secure API architecture and the Flask prototype implemented during the class, do the following: 
 
   
 
